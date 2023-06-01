@@ -75,6 +75,7 @@ parts:
       - libgpm2
       - liblz4-tool
       - libmagic1
+      - libparted2
       - libslang2
       - libusb-1.0-0
       - linux-tools-common
@@ -87,6 +88,7 @@ parts:
       - nano
       - netdiscover
       - net-tools
+      - parted
       - pastebinit
       - pciutils
       - psmisc
